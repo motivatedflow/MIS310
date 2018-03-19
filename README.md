@@ -1,3 +1,3 @@
-# MIS310
+ # MIS310 Team Oracle
 Ernest is a student at WSU.
-He is in pursuit of business degree with a major in MIS
+He is a member of Team Oracle  
